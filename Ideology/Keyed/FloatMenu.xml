@@ -2,19 +2,19 @@
 <LanguageData>
 
   <!-- EN: Ideoligion forbids -->
-  <IdeoligionForbids>TODO</IdeoligionForbids>
+  <IdeoligionForbids>Ideología prohíbe</IdeoligionForbids>
   <!-- EN: Only {0}s can build -->
-  <OnlyMembersCanBuild>TODO</OnlyMembersCanBuild>
+  <OnlyMembersCanBuild>Solo los {0}s pueden construir</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
-  <CantStartRitualAlreadyInProgress>TODO</CantStartRitualAlreadyInProgress>
+  <CantStartRitualAlreadyInProgress>{0} ya está en progreso</CantStartRitualAlreadyInProgress>
   <!-- EN: {0} is already participating in a ritual. -->
-  <CantStartRitualTargetIsAlreadyInRitual>TODO</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualTargetIsAlreadyInRitual>{0} ya está participando en un ritual.</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
-  <CantStartRitualRoleNotAssigned>TODO</CantStartRitualRoleNotAssigned>
+  <CantStartRitualRoleNotAssigned>Debes asignar el papel de {0} para empezar este ritual.</CantStartRitualRoleNotAssigned>
   <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
-  <CantStartRitualNoConvertee>TODO</CantStartRitualNoConvertee>
+  <CantStartRitualNoConvertee>No hay nadie a quien convertir a {0}. Necesitas un colono, un prisionero o un esclavo de otra ideología.</CantStartRitualNoConvertee>
   <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
-  <CantStartRitualSelectedPawnCannotBeRole>TODO</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} no puede ser {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
   <CantStartRitualSelectedPawnMustBeMember>TODO</CantStartRitualSelectedPawnMustBeMember>
   <!-- EN: {PAWN_nameDef} is psychically deaf. -->
@@ -31,13 +31,13 @@
   <NotAllowedForFaction>TODO</NotAllowedForFaction>
 
   <!-- EN: Remove -->
-  <Remove>TODO</Remove>
+  <Remove>Eliminar</Remove>
   <!-- EN: Remove precept -->
-  <RemovePrecept>TODO</RemovePrecept>
+  <RemovePrecept>Eliminar precepto</RemovePrecept>
   <!-- EN: Regenerate -->
-  <Regenerate>TODO</Regenerate>
+  <Regenerate>Regenerar</Regenerate>
   <!-- EN: Cannot edit -->
-  <CannotEdit>TODO</CannotEdit>
+  <CannotEdit>No se puede editar</CannotEdit>
   <!-- EN: No choices available -->
   <NoChoicesAvailable>TODO</NoChoicesAvailable>
   <!-- EN: Required by meme {0} -->
@@ -61,15 +61,15 @@
   <!-- EN: must be {0} faction -->
   <RoleApparelRequirementIncompatibleFaction>TODO</RoleApparelRequirementIncompatibleFaction>
   <!-- EN: tribal -->
-  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>tribal</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
   <!-- EN: non-tribal -->
-  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>no tribal</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
   <!-- EN: requires any of these memes -->
-  <RoleApparelRequirementIncompatibleAnyMemeRequired>TODO</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>requiere cualquiera de estos memes</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <!-- EN: cannot be worn with assigned apparel -->
   <BodyPartAlreadyCovered>TODO</BodyPartAlreadyCovered>
   <!-- EN: already assigned -->
-  <AlreadyAssigned>TODO</AlreadyAssigned>
+  <AlreadyAssigned>ya asignado</AlreadyAssigned>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
   <NoteRoleApparelRequirementEffects>TODO</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
@@ -84,9 +84,9 @@
   <!-- EN: {0} {DEITYNOUN} required -->
   <DeitiesRequired>TODO</DeitiesRequired>
   <!-- EN: deity -->
-  <Deity>TODO</Deity>
+  <Deity>deidad</Deity>
   <!-- EN: requires meme -->
-  <RequiresMeme>TODO</RequiresMeme>
+  <RequiresMeme>requiere meme</RequiresMeme>
   <!-- EN: requires one of -->
   <RequiresOneOfMemes>TODO</RequiresOneOfMemes>
   <!-- EN: conflicts with meme -->
@@ -110,9 +110,9 @@
   <ToDropSupplies>TODO</ToDropSupplies>
 
   <!-- EN: Install {0} -->
-  <InstallRelic>TODO</InstallRelic>
+  <InstallRelic>instalar</InstallRelic>
   <!-- EN: Extract {0} -->
-  <ExtractRelic>TODO</ExtractRelic>
+  <ExtractRelic>extraer</ExtractRelic>
   <!-- EN: Extract {0} to inventory ({1}) -->
   <ExtractRelicToInventory>TODO</ExtractRelicToInventory>
   <!-- EN: No relic to install -->
@@ -126,7 +126,7 @@
   <NoWardenOfIdeo>TODO</NoWardenOfIdeo>
 
   <!-- EN: Remove current role -->
-  <RemoveCurrentRole>TODO</RemoveCurrentRole>
+  <RemoveCurrentRole>Quitar papel actual</RemoveCurrentRole>
 
   <!-- EN: Enter biosculpter pod for {0} cycle -->
   <EnterBiosculpterPod>TODO</EnterBiosculpterPod>
@@ -143,7 +143,7 @@
   <!-- EN: Nutrition not loaded -->
   <BiosculpterNutritionNotLoaded>TODO</BiosculpterNutritionNotLoaded>
   <!-- EN: Occupied -->
-  <BiosculpterOccupied>TODO</BiosculpterOccupied>
+  <BiosculpterOccupied>Ocupado</BiosculpterOccupied>
   <!-- EN: Cannot enter -->
   <CannotEnter>TODO</CannotEnter>
   <!-- EN: Cannot start {0} cycle -->
